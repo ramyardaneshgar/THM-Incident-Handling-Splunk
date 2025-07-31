@@ -1,5 +1,5 @@
-# THM-Incident-Handling-Splunk
-Writeup for TryHackMe Incident Handling Lab - using Splunk, Suricata, Sysmon, FortiGate UTM, VirusTotal, Robtex, Hybrid Analysis, ThreatMiner, MITRE ATT&amp;CK.
+# Incident-Handling-Splunk
+Incident Handling - using Splunk, Suricata, Sysmon, FortiGate UTM, VirusTotal, Robtex, Hybrid Analysis, ThreatMiner, MITRE ATT&amp;CK.
 
 By Ramyar Daneshgar 
 
